@@ -1,1 +1,6 @@
+*~
+*#
+*.class
+lib_managed/
+project/
 target/
